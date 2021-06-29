@@ -1,0 +1,23 @@
+1 exerecicio
+
+void main (){
+  
+String nome_primeiro = "alek";
+String nome_sobrenome = "meno";
+String dado_idade = "21";  
+String dado_endereco = "Esteio";
+  
+  print("Nome: $nome_primeiro \n"
+        "Sobrenome: $nome_sobrenome \n"
+        "Idade: $dado_idade \n"
+        "Endereço: $dado_endereco \n");
+  
+  
+  print("---------------------------------");
+  
+  
+    
+  
+  
+  
+}
