@@ -1,0 +1,29 @@
+void main (){
+  
+double h = 40;
+
+double  b = 50;
+  https://github.com/JulianoGabarrusKerecki/dratpad...
+
+  
+  
+
+String srting_Altura = "40";
+  
+String string_Base = "50";
+
+
+
+double area = b * h; 
+  
+  print("---------------------------------");
+  
+  
+  print("Base :  $string_Base \n" 
+        "aAtura : $srting_Altura \n"       
+        "Area: $area \n"); 
+      
+  
+  
+  
+}
