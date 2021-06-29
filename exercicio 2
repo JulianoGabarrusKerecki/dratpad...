@@ -1,0 +1,20 @@
+void main (){
+  
+double b = 4;
+double a = 21;
+
+String cinem_String_quantidade = "4";
+String cinema_String_Valor = "21";
+
+double resultado = a * b; 
+  
+  print("---------------------------------");
+  
+  
+  print("Quantidade:  $cinem_String_quantidade \n" 
+        "Valor ingresso: $cinema_String_Valor \n"
+        "Valor a pagar: $resultado\n" );  
+  
+  
+}
+
